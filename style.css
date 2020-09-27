@@ -101,7 +101,7 @@ li > a {
 /* Home Section */
 
 .home {
-  background: "nivya.jpg";
+  background-image: url("nivya.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   height: 100vh;
