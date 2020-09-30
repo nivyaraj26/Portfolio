@@ -191,7 +191,7 @@ li > a {
   font-family: "Pacifico", cursive;
 }
 .Aspirations{
-    background: url("nm.jpg");
+    background: url("https://raw.githubusercontent.com/nivyaraj26/Portfolio/master/nm.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     height: 100vh;
@@ -256,7 +256,7 @@ li > a {
   text-decoration: underline;
 }
 .project{
-  background: url("bg.jpg");
+  background: url("https://raw.githubusercontent.com/nivyaraj26/Portfolio/master/bg.jpg");
   opacity: 0.4;
   background-repeat: no-repeat;
   background-size: cover;
