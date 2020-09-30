@@ -190,6 +190,14 @@ li > a {
   text-align: left;
   font-family: "Pacifico", cursive;
 }
+.Aspirations{
+    background: url("../assets/images/nm.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    color: #fff;
+    min-height: 500px;
+  }
 
 .goal{
   width: 80%;
@@ -206,9 +214,6 @@ li > a {
   margin-top: -30px;
   margin-left: 100px;
 
-}
-.goal img{
-  margin-left: 500px;
 }
 .goal p{
   text-align: center;
