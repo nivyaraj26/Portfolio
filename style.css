@@ -191,7 +191,7 @@ li > a {
   font-family: "Pacifico", cursive;
 }
 .Aspirations{
-    background: url("../assets/images/nm.jpg");
+    background: url("nm.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     height: 100vh;
@@ -256,7 +256,13 @@ li > a {
   text-decoration: underline;
 }
 .project{
-  background: #f8eaee;
+  background: url("bg.jpg");
+  opacity: 0.4;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+  color: #fff;
+  min-height: 500px;
 }
 .git img{
    margin-left: 500px;
