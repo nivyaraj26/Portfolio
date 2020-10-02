@@ -254,6 +254,8 @@ li > a {
   text-align: center;
   font-family: monospace;
   text-decoration: underline;
+  font-weight: 600;
+  color: black;
 }
 .project{
   background: url("https://raw.githubusercontent.com/nivyaraj26/Portfolio/master/bg.jpg");
